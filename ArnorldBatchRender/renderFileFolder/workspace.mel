@@ -1,0 +1,5 @@
+//Maya 2017 Project Definition
+
+workspace -fr "images" "C:/Users/mboulogne/Documents/5Film/Prod/Z_ScriptsQuiFontPlaiz/_testFolder/arnoldBatchRender/ArnorldBatchRender_IRL/renderFileFolder";
+workspace -fr "templates" "assets";
+workspace -fr "particles" "particles";
