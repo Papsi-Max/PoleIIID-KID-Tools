@@ -1,9 +1,12 @@
 # PoleIIID-KID-Tools
+#### French version (english version coming soon)
 
 Veuillez trouver dans ce document toutes les informations relatives aux scripts Python que j'ai développé durant 
 mon cursus scolaire. Le dossier contient quatre scripts rédigés pour un projet en particulier, KID, un film de fin
 d'étude réalisé en deux ans et produit par huit étudiants. Dans ce document, je décris le contenu de chacun des 
 scripts pour une meilleure compréhension de leur utilité.
+
+lien vers la version illustrée : https://drive.google.com/file/d/1LtBDNcIfcYZ-ih3LzYUj5nED4pSBbirc/view?usp=sharing
 
 ### AETools : Animation Export Tools
 
